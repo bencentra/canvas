@@ -1,0 +1,134 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Animation! Yeah!</title>
+	<style>
+		* {
+			font-family: Calibri, Arial, sans-serif;
+		}
+
+		.center {
+			text-align: center;
+		}
+
+		#mycanvas {
+			display: block;
+			width: 600px;
+			height: 400px;
+			margin: auto;
+			border: 1px solid black;
+		}
+
+		button {
+			font-size: 1em;
+		}
+
+		.pre {
+			font-family: monospace;
+		}
+
+		#frames {
+			font-weight: bold;
+		}
+	</style>
+</head>
+<body>
+	<h1 class="center">Animation! Yeah!</h1>
+	<p class="center">Playing around with <span class="pre">requestAnimationFrame();</span></p>
+	<div id="buttons" class="center">
+		<button type="button" onclick="start();">Start</button>
+		<button type="button" onclick="stop();">Stop</button>
+		<button type="button" onclick="erase();">Erase</button>
+	</div>
+	<p class="center">Erase on mouseover: <input type="checkbox" id="check"/></p>
+	<canvas id="mycanvas" width="600" height="400">Sorry, bro.</canvas>
+	<p class="center"><span id="frames">0</span> frames have been rendered.</p>
+	<script>
+		// Handles to DOM elements
+		var f = document.getElementById("frames");
+		var ch = document.getElementById("check");
+
+		// Set up the canvas
+		var c = document.getElementById("mycanvas");
+		var ctx = c.getContext("2d");
+		var gid;
+		var frameCount = 0;
+		var iRed = 255;
+		var iGreen = 0;
+		var iBlue = 0;
+		var inc = 4;
+
+		// Mouse over to erase the canvas
+		c.addEventListener("mousemove", function (e) {
+			if (ch.checked) {
+				var rect = c.getBoundingClientRect();
+				ctx.fillStyle = "#FFFFFF";
+				ctx.beginPath();
+				ctx.arc(e.clientX - rect.left, e.clientY - rect.top, 35, 0, 360, false);
+				ctx.fill();
+			}
+		});
+
+		// Clear the canvas
+		function erase() {
+			ctx.fillStyle = "#FFFFFF";
+			ctx.fillRect(0, 0, 600, 400);
+		}
+		
+		// Run a frame of animation
+		function animate() {
+			var r = Math.round(Math.random() * 20) + 5;
+			var x = Math.round(Math.random() * c.width);
+			var y = Math.round(Math.random() * c.height);
+			//setRandomColor();
+			incrementColor();
+			ctx.beginPath();
+			ctx.arc(x,y,r, 0, 360, false);
+			ctx.fill();
+			gid = requestAnimationFrame(animate);
+			f.innerHTML = frameCount++;
+		}
+
+		function setRandomColor() {
+			var red = Math.floor(Math.random() * 255);
+			var green = Math.floor(Math.random() * 255);
+			var blue = Math.floor(Math.random() * 255);
+			ctx.fillStyle = "rgb("+red+","+green+","+blue+")";
+		}
+
+		function incrementColor() {
+			if (iRed > 250 && iGreen <= 250 && iBlue <= 5) {
+				iGreen += inc;
+			}
+			else if (iRed > 5 && iGreen > 250 && iBlue <= 5) {
+				iRed =- inc;
+			}
+			else if (iRed <= 5 && iGreen > 250 && iBlue <= 250) {
+				iBlue += inc;
+			}
+			else if (iRed <= 5 && iGreen > 5 && iBlue > 250) {
+				iGreen -= inc;
+			}
+			else if (iRed <= 250 && iGreen <= 5 && iBlue > 250) {
+				iRed += inc;
+			}
+			else {
+				iBlue -= inc;
+			}
+			ctx.fillStyle = "rgb("+iRed+","+iGreen+","+iBlue+")";
+		}
+
+		// Start animation
+		function start() {
+			console.log("animating");
+			animate();
+		}
+
+		// Stop animation
+		function stop() {
+			console.log("stopping");
+			cancelAnimationFrame(gid);
+		}
+	</script>
+</body>
+</html

@@ -1,0 +1,141 @@
+<!DOCTYPE HTML>
+<html ng-app="ChartApp">
+<head>
+<title>Pie Charts</title>
+<style>
+
+    #canvas {
+        width: 400px;
+        height: 400px;
+        margin: auto;
+        display: block;
+    }
+    
+    #inputs {
+        width: 67%;  
+        margin: auto;
+    }
+    
+    #input tr, #input tr td {
+        padding: 2px;   
+    }
+    
+    .center {
+        text-align: center;   
+    }
+    
+    .half {
+        width: 50%;
+        float: left;
+    }
+    
+    .color {
+        width: 1em;
+        height: 1em;
+        border: 1px solid black;
+        display: inline-block;
+    }
+
+</style>
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.12/angular.min.js"></script>
+<script>
+
+    var app = angular.module("ChartApp", []);
+
+    function ChartCtrl($scope, $log, $window) {
+        $scope.canvas = document.querySelector("#canvas");
+        $scope.ctx = canvas.getContext("2d");
+        $scope.colors = ["#FF9999", "#99FF99", "#9999FF", "#FFFF99", "#FF99FF", "#99FFFF", "#FFCC99", "#CC99FF", "#99CCFF", "#99FFCC"];
+
+        $scope.maxInputs = 10;
+        $scope.inputs = [
+            {id: "Yeah", value: 60, style: {'background-color': $scope.colors[0]}}, 
+            {id: "Nah", value: 60, style: {'background-color': $scope.colors[1]}},
+            {id: "Iunno", value:60, style: {'background-color': $scope.colors[2]}}
+        ];  
+        $scope.newId = "";
+
+        $scope.addInput = function() {
+            if ($scope.inputs.length < $scope.maxInputs) {
+                $scope.inputs.push(
+                    {
+                        id: $scope.newId, 
+                        value: 0, 
+                        style: {'background-color': $scope.colors[$scope.inputs.length]}
+                    }
+                );
+                $scope.newId = "";
+            }
+        };
+
+        $scope.deleteInput = function(id) {
+            for (var i = 0; i < $scope.inputs.length; i++) {
+                if ($scope.inputs[i].id == id) {
+                    $scope.inputs.splice(i, 1);
+                    break;
+                }
+            }
+            $scope.drawChart();
+        }
+
+        $scope.drawChart = function() {
+            var total = 0;
+            for (var i = 0; i < $scope.inputs.length; i++) {
+                console.log($scope.inputs[i]);
+                total += $scope.inputs[i].value;   
+            }
+            var center = {"x": $scope.canvas.width/2, "y": $scope.canvas.height/2};
+            var radius = Math.min($scope.canvas.width, $scope.canvas.height)/2 - 10;
+            var startRad = 0;
+            for (var i = 0; i < $scope.inputs.length; i++) {
+                var size = $scope.inputs[i].value / total;
+                var endRad = startRad + size * (2 * Math.PI);
+                $scope.ctx.fillStyle = $scope.colors[i];
+                //$scope.ctx.strokeStyle = "#222222";
+                $scope.ctx.beginPath();
+                $scope.ctx.moveTo(center.x, center.y);
+                $scope.ctx.arc(center.x, center.y, radius, startRad, endRad);
+                $scope.ctx.lineTo(center.x, center.y);
+                $scope.ctx.fill();
+                //$scope.ctx.stroke();
+                startRad = endRad;
+            }
+        };
+
+        $scope.drawChart();
+    }
+
+</script>
+</head>
+<body ng-controller="ChartCtrl">
+    <h1 class="center">Pie Charts! Data! Yeah!</h1>
+    <div class="half">
+        <div class="center">
+            <h3>Slices</h3>
+            <table id="inputs">
+                <tr><th></th><th>Name</th><th>Value<th>Remove</th></tr>
+                <tr ng-repeat="input in inputs">
+                    <td><span class="color" ng-style="input.style"></span></td>
+                    <td>{{ input.id }}</td>
+                    <td><input type="number" min="0" ng-model="input.value" ng-change="drawChart();"/></td>
+                    <td><input type="button" ng-show="(inputs.length > 1);" ng-click="deleteInput(input.id);" value="X"/></td>
+                </tr>
+            </table>
+        </div>
+        <div class="center" ng-show="(inputs.length < maxInputs)">
+            <br/>
+            <h3>Add Slice</h3>
+            <form ng-submit="addInput();">
+                <input type="text" ng-model="newId" required placeholder="New slice..."/>
+                <!--<input type="number" ng-model="newValue"/>-->
+                <input type="submit" value="Add Slice"/>
+            </form>
+        </div>
+    </div>
+    <div class="half">
+        <canvas id="canvas" width="400" height="400">
+            Sorry bro, your browser is whack.
+        </canvas>
+    </div>
+</body>
+</html>

@@ -1,0 +1,170 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Canvas! Yeah!</title>
+	<style type="text/css">
+		* {
+			font-family: Calibri, Arial, sans-serif;
+		}
+
+		.center {
+			text-align: center;
+		}
+
+		#wrapper {
+			width: 1000px;
+			margin: auto;	
+		}
+		
+		#buttons {
+			width: 500px;
+			margin: auto;
+		}
+
+		#myCanvas {
+			display: block;
+			border: 1px solid black;
+			width: 500px;
+			height: 500px;
+			margin: auto;
+		}
+	</style>
+</head>
+<body>
+<div id="wrapper">
+	<h1 class="center">Canvas! Yeah!</h1>
+	<div id="buttons" class="center">
+		<button onclick="drawGrid();">Grid</button>
+		<button onclick="drawSnake();">Snake</button>
+		<button onclick="drawRandom();">Random</button>
+	</div>
+	<br/>
+	<canvas id="myCanvas" width="530px" height="530px">
+		If you see this text, your browser doesn't support canvas.
+	</canvas>
+	<script type="text/javascript">
+		// Constants and globals and such
+		var MARGIN = 6;
+		var GRID_WIDTH = 10;
+		var GRID_HEIGHT = 10;
+		var SQUARE_SIZE = 50;
+		var x, y, w, h;
+		// Drawing stuff
+		var rowCount = 0;
+		var colCount = 0;
+		var direction = 0; // 0 = Right, 1 = Left
+		var interval;
+		var fill = "#FF0000";
+
+		// Set up the canvas
+		var c = document.getElementById("myCanvas");
+		var ctx = c.getContext("2d");
+		// Start with the grid drawing
+		grid();
+
+		// Draw static grid
+		function grid() {
+			for (i = 0; i < GRID_WIDTH; i++) {
+				for (j = 0; j < GRID_HEIGHT; j++) {
+					if ((i+j)%2 == 0) {
+						ctx.fillStyle = "#000000";
+					}
+					else {
+						ctx.fillStyle = "#FFFFFF";
+					}
+					x = i * SQUARE_SIZE + i*2 + MARGIN;
+					y = j * SQUARE_SIZE + j*2 + MARGIN;
+					w = SQUARE_SIZE;
+					h = SQUARE_SIZE;
+					ctx.fillRect(x,y,w,h);
+				}
+			}
+		}
+
+		// Draw animated "snake" animation
+		function snake() {
+			if ((direction == 0 && colCount >= GRID_WIDTH) || (direction == 1 && colCount < 0)) {
+				if (direction == 0) {
+					colCount = GRID_WIDTH - 1;
+					direction = 1;
+				}
+				else {
+					colCount = 0;
+					direction = 0;
+				}
+				rowCount++;
+				if (rowCount >= GRID_HEIGHT) {
+					colCount = 0;
+					rowCount = 0;
+					direction = 0;
+					/*
+					if (fill == "#FF0000") {
+						fill = "#0000FF";
+					}
+					else {
+						fill = "#FF0000";
+					}
+					*/
+					var red = Math.floor(Math.random() * 255);
+					var green = Math.floor(Math.random() * 255);
+					var blue = Math.floor(Math.random() * 255);
+					fill = "rgb("+red+","+green+","+blue+")";
+					//clear();
+				}
+			}
+			ctx.fillStyle = fill;
+			x = colCount * SQUARE_SIZE + colCount*2 + MARGIN;
+			y = rowCount * SQUARE_SIZE + rowCount*2 + MARGIN;
+			ctx.fillRect(x,y,SQUARE_SIZE,SQUARE_SIZE);
+			if (direction == 0) {
+				colCount++;
+			}
+			else {
+				colCount--;
+			}
+		}
+
+		// Draw random squares in the grid with random colors
+		function random() {
+			rowCount = Math.floor(Math.random() * GRID_WIDTH);
+			colCount = Math.floor(Math.random() * GRID_HEIGHT);
+			var red = Math.floor(Math.random() * 255);
+			var green = Math.floor(Math.random() * 255);
+			var blue = Math.floor(Math.random() * 255);
+			x = colCount * SQUARE_SIZE + colCount*2 + MARGIN;
+			y = rowCount * SQUARE_SIZE + rowCount*2 + MARGIN;
+			ctx.fillStyle = "rgb("+red+","+green+","+blue+")";
+			ctx.fillRect(x,y,SQUARE_SIZE,SQUARE_SIZE);
+		}
+
+		// Clear the canvas
+		function clear() {
+			ctx.fillStyle = "#FFFFFF";
+			ctx.fillRect(0,0,530,530);
+		}
+
+		function drawGrid() {
+			clear();
+			clearInterval(interval);
+			grid();
+		}
+
+		function drawSnake() {
+			clear();
+			clearInterval(interval);
+			rowCount = 0;
+			colCount = 0;
+			direction = 0; // 0 = Right, 1 = Left
+			interval = setInterval(snake, 50);
+		}
+
+		function drawRandom() {
+			clear();
+			clearInterval(interval);
+			interval = setInterval(random, 50);
+		}
+
+	</script>
+</div>
+</body>
+</html>
