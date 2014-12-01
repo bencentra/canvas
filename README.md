@@ -1,7 +1,7 @@
 canvas
 ======
 
-Playing around with HTML5 canvas
+Playing around with HTML5 canvas. View the live demos here: http://bencentra.com/canvas
 
 Files
 -----
