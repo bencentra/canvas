@@ -1,0 +1,3287 @@
+[
+  {
+    "month": "January",
+    "day": "1",
+    "average_high": "33",
+    "mean": "26",
+    "average_low": "19",
+    "record_high": "68",
+    "record_low": "-8"
+  },
+  {
+    "month": "January",
+    "day": "2",
+    "average_high": "33",
+    "mean": "26",
+    "average_low": "19",
+    "record_high": "62",
+    "record_low": "-3"
+  },
+  {
+    "month": "January",
+    "day": "3",
+    "average_high": "32",
+    "mean": "26",
+    "average_low": "19",
+    "record_high": "61",
+    "record_low": "-4"
+  },
+  {
+    "month": "January",
+    "day": "4",
+    "average_high": "32",
+    "mean": "26",
+    "average_low": "19",
+    "record_high": "69",
+    "record_low": "-10"
+  },
+  {
+    "month": "January",
+    "day": "5",
+    "average_high": "32",
+    "mean": "25",
+    "average_low": "19",
+    "record_high": "65",
+    "record_low": "-14"
+  },
+  {
+    "month": "January",
+    "day": "6",
+    "average_high": "32",
+    "mean": "25",
+    "average_low": "18",
+    "record_high": "60",
+    "record_low": "-10"
+  },
+  {
+    "month": "January",
+    "day": "7",
+    "average_high": "32",
+    "mean": "25",
+    "average_low": "18",
+    "record_high": "62",
+    "record_low": "-7"
+  },
+  {
+    "month": "January",
+    "day": "8",
+    "average_high": "32",
+    "mean": "25",
+    "average_low": "18",
+    "record_high": "67",
+    "record_low": "-10"
+  },
+  {
+    "month": "January",
+    "day": "9",
+    "average_high": "32",
+    "mean": "25",
+    "average_low": "18",
+    "record_high": "65",
+    "record_low": "-8"
+  },
+  {
+    "month": "January",
+    "day": "10",
+    "average_high": "32",
+    "mean": "25",
+    "average_low": "18",
+    "record_high": "56",
+    "record_low": "-12"
+  },
+  {
+    "month": "January",
+    "day": "11",
+    "average_high": "32",
+    "mean": "25",
+    "average_low": "18",
+    "record_high": "63",
+    "record_low": "-14"
+  },
+  {
+    "month": "January",
+    "day": "12",
+    "average_high": "32",
+    "mean": "25",
+    "average_low": "18",
+    "record_high": "57",
+    "record_low": "-15"
+  },
+  {
+    "month": "January",
+    "day": "13",
+    "average_high": "32",
+    "mean": "25",
+    "average_low": "18",
+    "record_high": "67",
+    "record_low": "-11"
+  },
+  {
+    "month": "January",
+    "day": "14",
+    "average_high": "32",
+    "mean": "25",
+    "average_low": "17",
+    "record_high": "67",
+    "record_low": "-10"
+  },
+  {
+    "month": "January",
+    "day": "15",
+    "average_high": "31",
+    "mean": "24",
+    "average_low": "17",
+    "record_high": "68",
+    "record_low": "-16"
+  },
+  {
+    "month": "January",
+    "day": "16",
+    "average_high": "31",
+    "mean": "24",
+    "average_low": "17",
+    "record_high": "56",
+    "record_low": "-17"
+  },
+  {
+    "month": "January",
+    "day": "17",
+    "average_high": "31",
+    "mean": "24",
+    "average_low": "17",
+    "record_high": "56",
+    "record_low": "-10"
+  },
+  {
+    "month": "January",
+    "day": "18",
+    "average_high": "31",
+    "mean": "24",
+    "average_low": "17",
+    "record_high": "62",
+    "record_low": "-8"
+  },
+  {
+    "month": "January",
+    "day": "19",
+    "average_high": "31",
+    "mean": "24",
+    "average_low": "17",
+    "record_high": "61",
+    "record_low": "-11"
+  },
+  {
+    "month": "January",
+    "day": "20",
+    "average_high": "31",
+    "mean": "24",
+    "average_low": "17",
+    "record_high": "58",
+    "record_low": "-9"
+  },
+  {
+    "month": "January",
+    "day": "21",
+    "average_high": "31",
+    "mean": "24",
+    "average_low": "17",
+    "record_high": "71",
+    "record_low": "-10"
+  },
+  {
+    "month": "January",
+    "day": "22",
+    "average_high": "31",
+    "mean": "24",
+    "average_low": "17",
+    "record_high": "68",
+    "record_low": "-9"
+  },
+  {
+    "month": "January",
+    "day": "23",
+    "average_high": "31",
+    "mean": "24",
+    "average_low": "17",
+    "record_high": "64",
+    "record_low": "-14"
+  },
+  {
+    "month": "January",
+    "day": "24",
+    "average_high": "31",
+    "mean": "24",
+    "average_low": "17",
+    "record_high": "64",
+    "record_low": "-10"
+  },
+  {
+    "month": "January",
+    "day": "25",
+    "average_high": "31",
+    "mean": "24",
+    "average_low": "17",
+    "record_high": "74",
+    "record_low": "-7"
+  },
+  {
+    "month": "January",
+    "day": "26",
+    "average_high": "32",
+    "mean": "24",
+    "average_low": "17",
+    "record_high": "67",
+    "record_low": "-10"
+  },
+  {
+    "month": "January",
+    "day": "27",
+    "average_high": "32",
+    "mean": "24",
+    "average_low": "17",
+    "record_high": "63",
+    "record_low": "-7"
+  },
+  {
+    "month": "January",
+    "day": "28",
+    "average_high": "32",
+    "mean": "24",
+    "average_low": "17",
+    "record_high": "58",
+    "record_low": "-8"
+  },
+  {
+    "month": "January",
+    "day": "29",
+    "average_high": "32",
+    "mean": "24",
+    "average_low": "17",
+    "record_high": "59",
+    "record_low": "-9"
+  },
+  {
+    "month": "January",
+    "day": "30",
+    "average_high": "32",
+    "mean": "24",
+    "average_low": "17",
+    "record_high": "55",
+    "record_low": "-12"
+  },
+  {
+    "month": "January",
+    "day": "31",
+    "average_high": "32",
+    "mean": "24",
+    "average_low": "17",
+    "record_high": "63",
+    "record_low": "-10"
+  },
+  {
+    "month": "February",
+    "day": "1",
+    "average_high": "32",
+    "mean": "25",
+    "average_low": "17",
+    "record_high": "56",
+    "record_low": "-10"
+  },
+  {
+    "month": "February",
+    "day": "2",
+    "average_high": "32",
+    "mean": "25",
+    "average_low": "17",
+    "record_high": "59",
+    "record_low": "-16"
+  },
+  {
+    "month": "February",
+    "day": "3",
+    "average_high": "32",
+    "mean": "25",
+    "average_low": "17",
+    "record_high": "52",
+    "record_low": "-5"
+  },
+  {
+    "month": "February",
+    "day": "4",
+    "average_high": "32",
+    "mean": "25",
+    "average_low": "17",
+    "record_high": "58",
+    "record_low": "-8"
+  },
+  {
+    "month": "February",
+    "day": "5",
+    "average_high": "32",
+    "mean": "25",
+    "average_low": "17",
+    "record_high": "65",
+    "record_low": "-11"
+  },
+  {
+    "month": "February",
+    "day": "6",
+    "average_high": "32",
+    "mean": "25",
+    "average_low": "17",
+    "record_high": "55",
+    "record_low": "-9"
+  },
+  {
+    "month": "February",
+    "day": "7",
+    "average_high": "33",
+    "mean": "25",
+    "average_low": "18",
+    "record_high": "53",
+    "record_low": "-9"
+  },
+  {
+    "month": "February",
+    "day": "8",
+    "average_high": "33",
+    "mean": "25",
+    "average_low": "18",
+    "record_high": "63",
+    "record_low": "-16"
+  },
+  {
+    "month": "February",
+    "day": "9",
+    "average_high": "33",
+    "mean": "25",
+    "average_low": "18",
+    "record_high": "62",
+    "record_low": "-22"
+  },
+  {
+    "month": "February",
+    "day": "10",
+    "average_high": "33",
+    "mean": "25",
+    "average_low": "18",
+    "record_high": "57",
+    "record_low": "-11"
+  },
+  {
+    "month": "February",
+    "day": "11",
+    "average_high": "33",
+    "mean": "26",
+    "average_low": "18",
+    "record_high": "70",
+    "record_low": "-15"
+  },
+  {
+    "month": "February",
+    "day": "12",
+    "average_high": "33",
+    "mean": "26",
+    "average_low": "18",
+    "record_high": "64",
+    "record_low": "-15"
+  },
+  {
+    "month": "February",
+    "day": "13",
+    "average_high": "34",
+    "mean": "26",
+    "average_low": "18",
+    "record_high": "64",
+    "record_low": "-12"
+  },
+  {
+    "month": "February",
+    "day": "14",
+    "average_high": "34",
+    "mean": "26",
+    "average_low": "18",
+    "record_high": "56",
+    "record_low": "-14"
+  },
+  {
+    "month": "February",
+    "day": "15",
+    "average_high": "34",
+    "mean": "26",
+    "average_low": "18",
+    "record_high": "61",
+    "record_low": "-14"
+  },
+  {
+    "month": "February",
+    "day": "16",
+    "average_high": "34",
+    "mean": "26",
+    "average_low": "19",
+    "record_high": "61",
+    "record_low": "-7"
+  },
+  {
+    "month": "February",
+    "day": "17",
+    "average_high": "34",
+    "mean": "27",
+    "average_low": "19",
+    "record_high": "60",
+    "record_low": "-17"
+  },
+  {
+    "month": "February",
+    "day": "18",
+    "average_high": "35",
+    "mean": "27",
+    "average_low": "19",
+    "record_high": "62",
+    "record_low": "-19"
+  },
+  {
+    "month": "February",
+    "day": "19",
+    "average_high": "35",
+    "mean": "27",
+    "average_low": "19",
+    "record_high": "61",
+    "record_low": "-7"
+  },
+  {
+    "month": "February",
+    "day": "20",
+    "average_high": "35",
+    "mean": "27",
+    "average_low": "19",
+    "record_high": "62",
+    "record_low": "-4"
+  },
+  {
+    "month": "February",
+    "day": "21",
+    "average_high": "35",
+    "mean": "27",
+    "average_low": "20",
+    "record_high": "73",
+    "record_low": "-1"
+  },
+  {
+    "month": "February",
+    "day": "22",
+    "average_high": "36",
+    "mean": "28",
+    "average_low": "20",
+    "record_high": "67",
+    "record_low": "-2"
+  },
+  {
+    "month": "February",
+    "day": "23",
+    "average_high": "36",
+    "mean": "28",
+    "average_low": "20",
+    "record_high": "66",
+    "record_low": "-5"
+  },
+  {
+    "month": "February",
+    "day": "24",
+    "average_high": "36",
+    "mean": "28",
+    "average_low": "20",
+    "record_high": "70",
+    "record_low": "-9"
+  },
+  {
+    "month": "February",
+    "day": "25",
+    "average_high": "36",
+    "mean": "28",
+    "average_low": "20",
+    "record_high": "67",
+    "record_low": "-8"
+  },
+  {
+    "month": "February",
+    "day": "26",
+    "average_high": "37",
+    "mean": "29",
+    "average_low": "21",
+    "record_high": "66",
+    "record_low": "-2"
+  },
+  {
+    "month": "February",
+    "day": "27",
+    "average_high": "37",
+    "mean": "29",
+    "average_low": "21",
+    "record_high": "66",
+    "record_low": "-6"
+  },
+  {
+    "month": "February",
+    "day": "28",
+    "average_high": "37",
+    "mean": "29",
+    "average_low": "21",
+    "record_high": "63",
+    "record_low": "-4"
+  },
+  {
+    "month": "March",
+    "day": "1",
+    "average_high": "38",
+    "mean": "29",
+    "average_low": "21",
+    "record_high": "62",
+    "record_low": "-6"
+  },
+  {
+    "month": "March",
+    "day": "2",
+    "average_high": "38",
+    "mean": "30",
+    "average_low": "21",
+    "record_high": "68",
+    "record_low": "-3"
+  },
+  {
+    "month": "March",
+    "day": "3",
+    "average_high": "38",
+    "mean": "30",
+    "average_low": "22",
+    "record_high": "65",
+    "record_low": "-1"
+  },
+  {
+    "month": "March",
+    "day": "4",
+    "average_high": "38",
+    "mean": "30",
+    "average_low": "22",
+    "record_high": "69",
+    "record_low": "-4"
+  },
+  {
+    "month": "March",
+    "day": "5",
+    "average_high": "39",
+    "mean": "31",
+    "average_low": "22",
+    "record_high": "67",
+    "record_low": "-7"
+  },
+  {
+    "month": "March",
+    "day": "6",
+    "average_high": "39",
+    "mean": "31",
+    "average_low": "23",
+    "record_high": "70",
+    "record_low": "-3"
+  },
+  {
+    "month": "March",
+    "day": "7",
+    "average_high": "39",
+    "mean": "31",
+    "average_low": "23",
+    "record_high": "68",
+    "record_low": "1"
+  },
+  {
+    "month": "March",
+    "day": "8",
+    "average_high": "40",
+    "mean": "31",
+    "average_low": "23",
+    "record_high": "75",
+    "record_low": "-7"
+  },
+  {
+    "month": "March",
+    "day": "9",
+    "average_high": "40",
+    "mean": "32",
+    "average_low": "23",
+    "record_high": "73",
+    "record_low": "-3"
+  },
+  {
+    "month": "March",
+    "day": "10",
+    "average_high": "40",
+    "mean": "32",
+    "average_low": "24",
+    "record_high": "68",
+    "record_low": "5"
+  },
+  {
+    "month": "March",
+    "day": "11",
+    "average_high": "41",
+    "mean": "32",
+    "average_low": "24",
+    "record_high": "70",
+    "record_low": "-5"
+  },
+  {
+    "month": "March",
+    "day": "12",
+    "average_high": "41",
+    "mean": "33",
+    "average_low": "24",
+    "record_high": "69",
+    "record_low": "-5"
+  },
+  {
+    "month": "March",
+    "day": "13",
+    "average_high": "42",
+    "mean": "33",
+    "average_low": "25",
+    "record_high": "71",
+    "record_low": "-7"
+  },
+  {
+    "month": "March",
+    "day": "14",
+    "average_high": "42",
+    "mean": "33",
+    "average_low": "25",
+    "record_high": "80",
+    "record_low": "4"
+  },
+  {
+    "month": "March",
+    "day": "15",
+    "average_high": "42",
+    "mean": "34",
+    "average_low": "25",
+    "record_high": "82",
+    "record_low": "3"
+  },
+  {
+    "month": "March",
+    "day": "16",
+    "average_high": "43",
+    "mean": "34",
+    "average_low": "26",
+    "record_high": "73",
+    "record_low": "0"
+  },
+  {
+    "month": "March",
+    "day": "17",
+    "average_high": "43",
+    "mean": "35",
+    "average_low": "26",
+    "record_high": "76",
+    "record_low": "0"
+  },
+  {
+    "month": "March",
+    "day": "18",
+    "average_high": "43",
+    "mean": "35",
+    "average_low": "26",
+    "record_high": "78",
+    "record_low": "-3"
+  },
+  {
+    "month": "March",
+    "day": "19",
+    "average_high": "44",
+    "mean": "35",
+    "average_low": "27",
+    "record_high": "77",
+    "record_low": "-4"
+  },
+  {
+    "month": "March",
+    "day": "20",
+    "average_high": "44",
+    "mean": "36",
+    "average_low": "27",
+    "record_high": "79",
+    "record_low": "-1"
+  },
+  {
+    "month": "March",
+    "day": "21",
+    "average_high": "45",
+    "mean": "36",
+    "average_low": "27",
+    "record_high": "80",
+    "record_low": "-2"
+  },
+  {
+    "month": "March",
+    "day": "22",
+    "average_high": "45",
+    "mean": "36",
+    "average_low": "28",
+    "record_high": "83",
+    "record_low": "-1"
+  },
+  {
+    "month": "March",
+    "day": "23",
+    "average_high": "45",
+    "mean": "37",
+    "average_low": "28",
+    "record_high": "79",
+    "record_low": "-1"
+  },
+  {
+    "month": "March",
+    "day": "24",
+    "average_high": "46",
+    "mean": "37",
+    "average_low": "28",
+    "record_high": "81",
+    "record_low": "2"
+  },
+  {
+    "month": "March",
+    "day": "25",
+    "average_high": "46",
+    "mean": "38",
+    "average_low": "29",
+    "record_high": "77",
+    "record_low": "3"
+  },
+  {
+    "month": "March",
+    "day": "26",
+    "average_high": "47",
+    "mean": "38",
+    "average_low": "29",
+    "record_high": "84",
+    "record_low": "4"
+  },
+  {
+    "month": "March",
+    "day": "27",
+    "average_high": "47",
+    "mean": "38",
+    "average_low": "30",
+    "record_high": "80",
+    "record_low": "4"
+  },
+  {
+    "month": "March",
+    "day": "28",
+    "average_high": "48",
+    "mean": "39",
+    "average_low": "30",
+    "record_high": "84",
+    "record_low": "5"
+  },
+  {
+    "month": "March",
+    "day": "29",
+    "average_high": "48",
+    "mean": "39",
+    "average_low": "30",
+    "record_high": "86",
+    "record_low": "5"
+  },
+  {
+    "month": "March",
+    "day": "30",
+    "average_high": "48",
+    "mean": "40",
+    "average_low": "31",
+    "record_high": "83",
+    "record_low": "13"
+  },
+  {
+    "month": "March",
+    "day": "31",
+    "average_high": "49",
+    "mean": "40",
+    "average_low": "31",
+    "record_high": "83",
+    "record_low": "8"
+  },
+  {
+    "month": "April",
+    "day": "1",
+    "average_high": "49",
+    "mean": "40",
+    "average_low": "31",
+    "record_high": "85",
+    "record_low": "7"
+  },
+  {
+    "month": "April",
+    "day": "2",
+    "average_high": "50",
+    "mean": "41",
+    "average_low": "32",
+    "record_high": "86",
+    "record_low": "19"
+  },
+  {
+    "month": "April",
+    "day": "3",
+    "average_high": "50",
+    "mean": "41",
+    "average_low": "32",
+    "record_high": "87",
+    "record_low": "13"
+  },
+  {
+    "month": "April",
+    "day": "4",
+    "average_high": "51",
+    "mean": "42",
+    "average_low": "33",
+    "record_high": "83",
+    "record_low": "11"
+  },
+  {
+    "month": "April",
+    "day": "5",
+    "average_high": "51",
+    "mean": "42",
+    "average_low": "33",
+    "record_high": "83",
+    "record_low": "15"
+  },
+  {
+    "month": "April",
+    "day": "6",
+    "average_high": "52",
+    "mean": "43",
+    "average_low": "33",
+    "record_high": "83",
+    "record_low": "17"
+  },
+  {
+    "month": "April",
+    "day": "7",
+    "average_high": "52",
+    "mean": "43",
+    "average_low": "34",
+    "record_high": "79",
+    "record_low": "13"
+  },
+  {
+    "month": "April",
+    "day": "8",
+    "average_high": "53",
+    "mean": "43",
+    "average_low": "34",
+    "record_high": "80",
+    "record_low": "17"
+  },
+  {
+    "month": "April",
+    "day": "9",
+    "average_high": "53",
+    "mean": "44",
+    "average_low": "34",
+    "record_high": "79",
+    "record_low": "16"
+  },
+  {
+    "month": "April",
+    "day": "10",
+    "average_high": "54",
+    "mean": "44",
+    "average_low": "35",
+    "record_high": "85",
+    "record_low": "16"
+  },
+  {
+    "month": "April",
+    "day": "11",
+    "average_high": "54",
+    "mean": "45",
+    "average_low": "35",
+    "record_high": "85",
+    "record_low": "14"
+  },
+  {
+    "month": "April",
+    "day": "12",
+    "average_high": "55",
+    "mean": "45",
+    "average_low": "36",
+    "record_high": "85",
+    "record_low": "20"
+  },
+  {
+    "month": "April",
+    "day": "13",
+    "average_high": "55",
+    "mean": "45",
+    "average_low": "36",
+    "record_high": "86",
+    "record_low": "20"
+  },
+  {
+    "month": "April",
+    "day": "14",
+    "average_high": "55",
+    "mean": "46",
+    "average_low": "36",
+    "record_high": "85",
+    "record_low": "19"
+  },
+  {
+    "month": "April",
+    "day": "15",
+    "average_high": "56",
+    "mean": "46",
+    "average_low": "37",
+    "record_high": "86",
+    "record_low": "18"
+  },
+  {
+    "month": "April",
+    "day": "16",
+    "average_high": "56",
+    "mean": "47",
+    "average_low": "37",
+    "record_high": "87",
+    "record_low": "22"
+  },
+  {
+    "month": "April",
+    "day": "17",
+    "average_high": "57",
+    "mean": "47",
+    "average_low": "37",
+    "record_high": "85",
+    "record_low": "19"
+  },
+  {
+    "month": "April",
+    "day": "18",
+    "average_high": "57",
+    "mean": "47",
+    "average_low": "38",
+    "record_high": "85",
+    "record_low": "15"
+  },
+  {
+    "month": "April",
+    "day": "19",
+    "average_high": "58",
+    "mean": "48",
+    "average_low": "38",
+    "record_high": "86",
+    "record_low": "20"
+  },
+  {
+    "month": "April",
+    "day": "20",
+    "average_high": "58",
+    "mean": "48",
+    "average_low": "38",
+    "record_high": "86",
+    "record_low": "20"
+  },
+  {
+    "month": "April",
+    "day": "21",
+    "average_high": "59",
+    "mean": "49",
+    "average_low": "39",
+    "record_high": "87",
+    "record_low": "20"
+  },
+  {
+    "month": "April",
+    "day": "22",
+    "average_high": "59",
+    "mean": "49",
+    "average_low": "39",
+    "record_high": "84",
+    "record_low": "26"
+  },
+  {
+    "month": "April",
+    "day": "23",
+    "average_high": "60",
+    "mean": "49",
+    "average_low": "39",
+    "record_high": "90",
+    "record_low": "24"
+  },
+  {
+    "month": "April",
+    "day": "24",
+    "average_high": "60",
+    "mean": "50",
+    "average_low": "40",
+    "record_high": "83",
+    "record_low": "23"
+  },
+  {
+    "month": "April",
+    "day": "25",
+    "average_high": "60",
+    "mean": "50",
+    "average_low": "40",
+    "record_high": "86",
+    "record_low": "21"
+  },
+  {
+    "month": "April",
+    "day": "26",
+    "average_high": "61",
+    "mean": "51",
+    "average_low": "40",
+    "record_high": "86",
+    "record_low": "23"
+  },
+  {
+    "month": "April",
+    "day": "27",
+    "average_high": "61",
+    "mean": "51",
+    "average_low": "41",
+    "record_high": "86",
+    "record_low": "26"
+  },
+  {
+    "month": "April",
+    "day": "28",
+    "average_high": "62",
+    "mean": "51",
+    "average_low": "41",
+    "record_high": "93",
+    "record_low": "25"
+  },
+  {
+    "month": "April",
+    "day": "29",
+    "average_high": "62",
+    "mean": "52",
+    "average_low": "41",
+    "record_high": "86",
+    "record_low": "27"
+  },
+  {
+    "month": "April",
+    "day": "30",
+    "average_high": "62",
+    "mean": "52",
+    "average_low": "41",
+    "record_high": "93",
+    "record_low": "29"
+  },
+  {
+    "month": "May",
+    "day": "1",
+    "average_high": "63",
+    "mean": "52",
+    "average_low": "42",
+    "record_high": "90",
+    "record_low": "26"
+  },
+  {
+    "month": "May",
+    "day": "2",
+    "average_high": "63",
+    "mean": "53",
+    "average_low": "42",
+    "record_high": "85",
+    "record_low": "26"
+  },
+  {
+    "month": "May",
+    "day": "3",
+    "average_high": "63",
+    "mean": "53",
+    "average_low": "42",
+    "record_high": "91",
+    "record_low": "27"
+  },
+  {
+    "month": "May",
+    "day": "4",
+    "average_high": "64",
+    "mean": "53",
+    "average_low": "43",
+    "record_high": "91",
+    "record_low": "30"
+  },
+  {
+    "month": "May",
+    "day": "5",
+    "average_high": "64",
+    "mean": "54",
+    "average_low": "43",
+    "record_high": "88",
+    "record_low": "29"
+  },
+  {
+    "month": "May",
+    "day": "6",
+    "average_high": "65",
+    "mean": "54",
+    "average_low": "43",
+    "record_high": "92",
+    "record_low": "28"
+  },
+  {
+    "month": "May",
+    "day": "7",
+    "average_high": "65",
+    "mean": "54",
+    "average_low": "44",
+    "record_high": "88",
+    "record_low": "26"
+  },
+  {
+    "month": "May",
+    "day": "8",
+    "average_high": "65",
+    "mean": "55",
+    "average_low": "44",
+    "record_high": "89",
+    "record_low": "29"
+  },
+  {
+    "month": "May",
+    "day": "9",
+    "average_high": "66",
+    "mean": "55",
+    "average_low": "44",
+    "record_high": "89",
+    "record_low": "31"
+  },
+  {
+    "month": "May",
+    "day": "10",
+    "average_high": "66",
+    "mean": "55",
+    "average_low": "44",
+    "record_high": "89",
+    "record_low": "28"
+  },
+  {
+    "month": "May",
+    "day": "11",
+    "average_high": "66",
+    "mean": "55",
+    "average_low": "45",
+    "record_high": "89",
+    "record_low": "29"
+  },
+  {
+    "month": "May",
+    "day": "12",
+    "average_high": "67",
+    "mean": "56",
+    "average_low": "45",
+    "record_high": "87",
+    "record_low": "30"
+  },
+  {
+    "month": "May",
+    "day": "13",
+    "average_high": "67",
+    "mean": "56",
+    "average_low": "45",
+    "record_high": "89",
+    "record_low": "31"
+  },
+  {
+    "month": "May",
+    "day": "14",
+    "average_high": "67",
+    "mean": "56",
+    "average_low": "46",
+    "record_high": "94",
+    "record_low": "31"
+  },
+  {
+    "month": "May",
+    "day": "15",
+    "average_high": "67",
+    "mean": "57",
+    "average_low": "46",
+    "record_high": "88",
+    "record_low": "35"
+  },
+  {
+    "month": "May",
+    "day": "16",
+    "average_high": "68",
+    "mean": "57",
+    "average_low": "46",
+    "record_high": "90",
+    "record_low": "30"
+  },
+  {
+    "month": "May",
+    "day": "17",
+    "average_high": "68",
+    "mean": "57",
+    "average_low": "47",
+    "record_high": "90",
+    "record_low": "29"
+  },
+  {
+    "month": "May",
+    "day": "18",
+    "average_high": "68",
+    "mean": "58",
+    "average_low": "47",
+    "record_high": "92",
+    "record_low": "30"
+  },
+  {
+    "month": "May",
+    "day": "19",
+    "average_high": "69",
+    "mean": "58",
+    "average_low": "47",
+    "record_high": "89",
+    "record_low": "34"
+  },
+  {
+    "month": "May",
+    "day": "20",
+    "average_high": "69",
+    "mean": "58",
+    "average_low": "48",
+    "record_high": "92",
+    "record_low": "34"
+  },
+  {
+    "month": "May",
+    "day": "21",
+    "average_high": "69",
+    "mean": "59",
+    "average_low": "48",
+    "record_high": "92",
+    "record_low": "31"
+  },
+  {
+    "month": "May",
+    "day": "22",
+    "average_high": "70",
+    "mean": "59",
+    "average_low": "48",
+    "record_high": "92",
+    "record_low": "34"
+  },
+  {
+    "month": "May",
+    "day": "23",
+    "average_high": "70",
+    "mean": "59",
+    "average_low": "49",
+    "record_high": "90",
+    "record_low": "31"
+  },
+  {
+    "month": "May",
+    "day": "24",
+    "average_high": "70",
+    "mean": "60",
+    "average_low": "49",
+    "record_high": "91",
+    "record_low": "31"
+  },
+  {
+    "month": "May",
+    "day": "25",
+    "average_high": "70",
+    "mean": "60",
+    "average_low": "49",
+    "record_high": "88",
+    "record_low": "32"
+  },
+  {
+    "month": "May",
+    "day": "26",
+    "average_high": "71",
+    "mean": "60",
+    "average_low": "50",
+    "record_high": "90",
+    "record_low": "36"
+  },
+  {
+    "month": "May",
+    "day": "27",
+    "average_high": "71",
+    "mean": "60",
+    "average_low": "50",
+    "record_high": "92",
+    "record_low": "35"
+  },
+  {
+    "month": "May",
+    "day": "28",
+    "average_high": "71",
+    "mean": "61",
+    "average_low": "50",
+    "record_high": "93",
+    "record_low": "35"
+  },
+  {
+    "month": "May",
+    "day": "29",
+    "average_high": "72",
+    "mean": "61",
+    "average_low": "51",
+    "record_high": "92",
+    "record_low": "31"
+  },
+  {
+    "month": "May",
+    "day": "30",
+    "average_high": "72",
+    "mean": "61",
+    "average_low": "51",
+    "record_high": "94",
+    "record_low": "33"
+  },
+  {
+    "month": "May",
+    "day": "31",
+    "average_high": "72",
+    "mean": "62",
+    "average_low": "51",
+    "record_high": "91",
+    "record_low": "37"
+  },
+  {
+    "month": "June",
+    "day": "1",
+    "average_high": "73",
+    "mean": "62",
+    "average_low": "52",
+    "record_high": "93",
+    "record_low": "35"
+  },
+  {
+    "month": "June",
+    "day": "2",
+    "average_high": "73",
+    "mean": "62",
+    "average_low": "52",
+    "record_high": "96",
+    "record_low": "40"
+  },
+  {
+    "month": "June",
+    "day": "3",
+    "average_high": "73",
+    "mean": "63",
+    "average_low": "52",
+    "record_high": "93",
+    "record_low": "36"
+  },
+  {
+    "month": "June",
+    "day": "4",
+    "average_high": "73",
+    "mean": "63",
+    "average_low": "53",
+    "record_high": "94",
+    "record_low": "36"
+  },
+  {
+    "month": "June",
+    "day": "5",
+    "average_high": "74",
+    "mean": "63",
+    "average_low": "53",
+    "record_high": "95",
+    "record_low": "37"
+  },
+  {
+    "month": "June",
+    "day": "6",
+    "average_high": "74",
+    "mean": "64",
+    "average_low": "53",
+    "record_high": "94",
+    "record_low": "39"
+  },
+  {
+    "month": "June",
+    "day": "7",
+    "average_high": "74",
+    "mean": "64",
+    "average_low": "54",
+    "record_high": "91",
+    "record_low": "36"
+  },
+  {
+    "month": "June",
+    "day": "8",
+    "average_high": "75",
+    "mean": "64",
+    "average_low": "54",
+    "record_high": "92",
+    "record_low": "35"
+  },
+  {
+    "month": "June",
+    "day": "9",
+    "average_high": "75",
+    "mean": "65",
+    "average_low": "54",
+    "record_high": "93",
+    "record_low": "38"
+  },
+  {
+    "month": "June",
+    "day": "10",
+    "average_high": "75",
+    "mean": "65",
+    "average_low": "55",
+    "record_high": "94",
+    "record_low": "37"
+  },
+  {
+    "month": "June",
+    "day": "11",
+    "average_high": "76",
+    "mean": "65",
+    "average_low": "55",
+    "record_high": "93",
+    "record_low": "36"
+  },
+  {
+    "month": "June",
+    "day": "12",
+    "average_high": "76",
+    "mean": "66",
+    "average_low": "55",
+    "record_high": "94",
+    "record_low": "40"
+  },
+  {
+    "month": "June",
+    "day": "13",
+    "average_high": "76",
+    "mean": "66",
+    "average_low": "55",
+    "record_high": "94",
+    "record_low": "42"
+  },
+  {
+    "month": "June",
+    "day": "14",
+    "average_high": "76",
+    "mean": "66",
+    "average_low": "56",
+    "record_high": "93",
+    "record_low": "41"
+  },
+  {
+    "month": "June",
+    "day": "15",
+    "average_high": "77",
+    "mean": "66",
+    "average_low": "56",
+    "record_high": "94",
+    "record_low": "40"
+  },
+  {
+    "month": "June",
+    "day": "16",
+    "average_high": "77",
+    "mean": "67",
+    "average_low": "56",
+    "record_high": "95",
+    "record_low": "41"
+  },
+  {
+    "month": "June",
+    "day": "17",
+    "average_high": "77",
+    "mean": "67",
+    "average_low": "57",
+    "record_high": "94",
+    "record_low": "41"
+  },
+  {
+    "month": "June",
+    "day": "18",
+    "average_high": "78",
+    "mean": "67",
+    "average_low": "57",
+    "record_high": "97",
+    "record_low": "38"
+  },
+  {
+    "month": "June",
+    "day": "19",
+    "average_high": "78",
+    "mean": "67",
+    "average_low": "57",
+    "record_high": "95",
+    "record_low": "42"
+  },
+  {
+    "month": "June",
+    "day": "20",
+    "average_high": "78",
+    "mean": "68",
+    "average_low": "57",
+    "record_high": "95",
+    "record_low": "41"
+  },
+  {
+    "month": "June",
+    "day": "21",
+    "average_high": "78",
+    "mean": "68",
+    "average_low": "58",
+    "record_high": "100",
+    "record_low": "42"
+  },
+  {
+    "month": "June",
+    "day": "22",
+    "average_high": "79",
+    "mean": "68",
+    "average_low": "58",
+    "record_high": "93",
+    "record_low": "42"
+  },
+  {
+    "month": "June",
+    "day": "23",
+    "average_high": "79",
+    "mean": "68",
+    "average_low": "58",
+    "record_high": "95",
+    "record_low": "40"
+  },
+  {
+    "month": "June",
+    "day": "24",
+    "average_high": "79",
+    "mean": "69",
+    "average_low": "58",
+    "record_high": "96",
+    "record_low": "45"
+  },
+  {
+    "month": "June",
+    "day": "25",
+    "average_high": "79",
+    "mean": "69",
+    "average_low": "59",
+    "record_high": "97",
+    "record_low": "41"
+  },
+  {
+    "month": "June",
+    "day": "26",
+    "average_high": "79",
+    "mean": "69",
+    "average_low": "59",
+    "record_high": "96",
+    "record_low": "43"
+  },
+  {
+    "month": "June",
+    "day": "27",
+    "average_high": "80",
+    "mean": "69",
+    "average_low": "59",
+    "record_high": "96",
+    "record_low": "47"
+  },
+  {
+    "month": "June",
+    "day": "28",
+    "average_high": "80",
+    "mean": "70",
+    "average_low": "59",
+    "record_high": "98",
+    "record_low": "47"
+  },
+  {
+    "month": "June",
+    "day": "29",
+    "average_high": "80",
+    "mean": "70",
+    "average_low": "59",
+    "record_high": "93",
+    "record_low": "43"
+  },
+  {
+    "month": "June",
+    "day": "30",
+    "average_high": "80",
+    "mean": "70",
+    "average_low": "60",
+    "record_high": "96",
+    "record_low": "46"
+  },
+  {
+    "month": "July",
+    "day": "1",
+    "average_high": "80",
+    "mean": "70",
+    "average_low": "60",
+    "record_high": "96",
+    "record_low": "45"
+  },
+  {
+    "month": "July",
+    "day": "2",
+    "average_high": "80",
+    "mean": "70",
+    "average_low": "60",
+    "record_high": "99",
+    "record_low": "45"
+  },
+  {
+    "month": "July",
+    "day": "3",
+    "average_high": "81",
+    "mean": "70",
+    "average_low": "60",
+    "record_high": "100",
+    "record_low": "48"
+  },
+  {
+    "month": "July",
+    "day": "4",
+    "average_high": "81",
+    "mean": "70",
+    "average_low": "60",
+    "record_high": "99",
+    "record_low": "47"
+  },
+  {
+    "month": "July",
+    "day": "5",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "60",
+    "record_high": "101",
+    "record_low": "47"
+  },
+  {
+    "month": "July",
+    "day": "6",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "60",
+    "record_high": "98",
+    "record_low": "47"
+  },
+  {
+    "month": "July",
+    "day": "7",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "60",
+    "record_high": "97",
+    "record_low": "47"
+  },
+  {
+    "month": "July",
+    "day": "8",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "100",
+    "record_low": "45"
+  },
+  {
+    "month": "July",
+    "day": "9",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "102",
+    "record_low": "42"
+  },
+  {
+    "month": "July",
+    "day": "10",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "102",
+    "record_low": "48"
+  },
+  {
+    "month": "July",
+    "day": "11",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "96",
+    "record_low": "44"
+  },
+  {
+    "month": "July",
+    "day": "12",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "94",
+    "record_low": "45"
+  },
+  {
+    "month": "July",
+    "day": "13",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "98",
+    "record_low": "49"
+  },
+  {
+    "month": "July",
+    "day": "14",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "97",
+    "record_low": "48"
+  },
+  {
+    "month": "July",
+    "day": "15",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "96",
+    "record_low": "48"
+  },
+  {
+    "month": "July",
+    "day": "16",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "96",
+    "record_low": "48"
+  },
+  {
+    "month": "July",
+    "day": "17",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "97",
+    "record_low": "48"
+  },
+  {
+    "month": "July",
+    "day": "18",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "97",
+    "record_low": "47"
+  },
+  {
+    "month": "July",
+    "day": "19",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "95",
+    "record_low": "50"
+  },
+  {
+    "month": "July",
+    "day": "20",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "99",
+    "record_low": "46"
+  },
+  {
+    "month": "July",
+    "day": "21",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "98",
+    "record_low": "46"
+  },
+  {
+    "month": "July",
+    "day": "22",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "97",
+    "record_low": "46"
+  },
+  {
+    "month": "July",
+    "day": "23",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "99",
+    "record_low": "48"
+  },
+  {
+    "month": "July",
+    "day": "24",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "97",
+    "record_low": "47"
+  },
+  {
+    "month": "July",
+    "day": "25",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "98",
+    "record_low": "48"
+  },
+  {
+    "month": "July",
+    "day": "26",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "95",
+    "record_low": "47"
+  },
+  {
+    "month": "July",
+    "day": "27",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "98",
+    "record_low": "45"
+  },
+  {
+    "month": "July",
+    "day": "28",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "98",
+    "record_low": "48"
+  },
+  {
+    "month": "July",
+    "day": "29",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "94",
+    "record_low": "49"
+  },
+  {
+    "month": "July",
+    "day": "30",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "96",
+    "record_low": "45"
+  },
+  {
+    "month": "July",
+    "day": "31",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "98",
+    "record_low": "47"
+  },
+  {
+    "month": "August",
+    "day": "1",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "96",
+    "record_low": "48"
+  },
+  {
+    "month": "August",
+    "day": "2",
+    "average_high": "81",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "96",
+    "record_low": "47"
+  },
+  {
+    "month": "August",
+    "day": "3",
+    "average_high": "80",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "95",
+    "record_low": "46"
+  },
+  {
+    "month": "August",
+    "day": "4",
+    "average_high": "80",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "98",
+    "record_low": "47"
+  },
+  {
+    "month": "August",
+    "day": "5",
+    "average_high": "80",
+    "mean": "71",
+    "average_low": "61",
+    "record_high": "96",
+    "record_low": "45"
+  },
+  {
+    "month": "August",
+    "day": "6",
+    "average_high": "80",
+    "mean": "70",
+    "average_low": "61",
+    "record_high": "96",
+    "record_low": "45"
+  },
+  {
+    "month": "August",
+    "day": "7",
+    "average_high": "80",
+    "mean": "70",
+    "average_low": "61",
+    "record_high": "96",
+    "record_low": "46"
+  },
+  {
+    "month": "August",
+    "day": "8",
+    "average_high": "80",
+    "mean": "70",
+    "average_low": "61",
+    "record_high": "96",
+    "record_low": "49"
+  },
+  {
+    "month": "August",
+    "day": "9",
+    "average_high": "80",
+    "mean": "70",
+    "average_low": "60",
+    "record_high": "98",
+    "record_low": "45"
+  },
+  {
+    "month": "August",
+    "day": "10",
+    "average_high": "80",
+    "mean": "70",
+    "average_low": "60",
+    "record_high": "97",
+    "record_low": "47"
+  },
+  {
+    "month": "August",
+    "day": "11",
+    "average_high": "80",
+    "mean": "70",
+    "average_low": "60",
+    "record_high": "97",
+    "record_low": "49"
+  },
+  {
+    "month": "August",
+    "day": "12",
+    "average_high": "80",
+    "mean": "70",
+    "average_low": "60",
+    "record_high": "96",
+    "record_low": "46"
+  },
+  {
+    "month": "August",
+    "day": "13",
+    "average_high": "80",
+    "mean": "70",
+    "average_low": "60",
+    "record_high": "97",
+    "record_low": "46"
+  },
+  {
+    "month": "August",
+    "day": "14",
+    "average_high": "80",
+    "mean": "70",
+    "average_low": "60",
+    "record_high": "97",
+    "record_low": "46"
+  },
+  {
+    "month": "August",
+    "day": "15",
+    "average_high": "79",
+    "mean": "70",
+    "average_low": "60",
+    "record_high": "96",
+    "record_low": "47"
+  },
+  {
+    "month": "August",
+    "day": "16",
+    "average_high": "79",
+    "mean": "70",
+    "average_low": "60",
+    "record_high": "94",
+    "record_low": "47"
+  },
+  {
+    "month": "August",
+    "day": "17",
+    "average_high": "79",
+    "mean": "70",
+    "average_low": "60",
+    "record_high": "94",
+    "record_low": "46"
+  },
+  {
+    "month": "August",
+    "day": "18",
+    "average_high": "79",
+    "mean": "69",
+    "average_low": "60",
+    "record_high": "93",
+    "record_low": "46"
+  },
+  {
+    "month": "August",
+    "day": "19",
+    "average_high": "79",
+    "mean": "69",
+    "average_low": "59",
+    "record_high": "94",
+    "record_low": "46"
+  },
+  {
+    "month": "August",
+    "day": "20",
+    "average_high": "79",
+    "mean": "69",
+    "average_low": "59",
+    "record_high": "93",
+    "record_low": "46"
+  },
+  {
+    "month": "August",
+    "day": "21",
+    "average_high": "79",
+    "mean": "69",
+    "average_low": "59",
+    "record_high": "95",
+    "record_low": "44"
+  },
+  {
+    "month": "August",
+    "day": "22",
+    "average_high": "79",
+    "mean": "69",
+    "average_low": "59",
+    "record_high": "98",
+    "record_low": "43"
+  },
+  {
+    "month": "August",
+    "day": "23",
+    "average_high": "78",
+    "mean": "69",
+    "average_low": "59",
+    "record_high": "92",
+    "record_low": "44"
+  },
+  {
+    "month": "August",
+    "day": "24",
+    "average_high": "78",
+    "mean": "68",
+    "average_low": "59",
+    "record_high": "94",
+    "record_low": "42"
+  },
+  {
+    "month": "August",
+    "day": "25",
+    "average_high": "78",
+    "mean": "68",
+    "average_low": "58",
+    "record_high": "96",
+    "record_low": "43"
+  },
+  {
+    "month": "August",
+    "day": "26",
+    "average_high": "78",
+    "mean": "68",
+    "average_low": "58",
+    "record_high": "99",
+    "record_low": "44"
+  },
+  {
+    "month": "August",
+    "day": "27",
+    "average_high": "78",
+    "mean": "68",
+    "average_low": "58",
+    "record_high": "98",
+    "record_low": "44"
+  },
+  {
+    "month": "August",
+    "day": "28",
+    "average_high": "78",
+    "mean": "68",
+    "average_low": "58",
+    "record_high": "99",
+    "record_low": "41"
+  },
+  {
+    "month": "August",
+    "day": "29",
+    "average_high": "77",
+    "mean": "68",
+    "average_low": "58",
+    "record_high": "94",
+    "record_low": "38"
+  },
+  {
+    "month": "August",
+    "day": "30",
+    "average_high": "77",
+    "mean": "67",
+    "average_low": "57",
+    "record_high": "96",
+    "record_low": "36"
+  },
+  {
+    "month": "August",
+    "day": "31",
+    "average_high": "77",
+    "mean": "67",
+    "average_low": "57",
+    "record_high": "96",
+    "record_low": "43"
+  },
+  {
+    "month": "September",
+    "day": "1",
+    "average_high": "77",
+    "mean": "67",
+    "average_low": "57",
+    "record_high": "95",
+    "record_low": "43"
+  },
+  {
+    "month": "September",
+    "day": "2",
+    "average_high": "76",
+    "mean": "67",
+    "average_low": "57",
+    "record_high": "97",
+    "record_low": "40"
+  },
+  {
+    "month": "September",
+    "day": "3",
+    "average_high": "76",
+    "mean": "66",
+    "average_low": "56",
+    "record_high": "99",
+    "record_low": "41"
+  },
+  {
+    "month": "September",
+    "day": "4",
+    "average_high": "76",
+    "mean": "66",
+    "average_low": "56",
+    "record_high": "97",
+    "record_low": "40"
+  },
+  {
+    "month": "September",
+    "day": "5",
+    "average_high": "76",
+    "mean": "66",
+    "average_low": "56",
+    "record_high": "96",
+    "record_low": "42"
+  },
+  {
+    "month": "September",
+    "day": "6",
+    "average_high": "75",
+    "mean": "65",
+    "average_low": "55",
+    "record_high": "98",
+    "record_low": "40"
+  },
+  {
+    "month": "September",
+    "day": "7",
+    "average_high": "75",
+    "mean": "65",
+    "average_low": "55",
+    "record_high": "95",
+    "record_low": "43"
+  },
+  {
+    "month": "September",
+    "day": "8",
+    "average_high": "75",
+    "mean": "65",
+    "average_low": "55",
+    "record_high": "94",
+    "record_low": "37"
+  },
+  {
+    "month": "September",
+    "day": "9",
+    "average_high": "74",
+    "mean": "64",
+    "average_low": "54",
+    "record_high": "98",
+    "record_low": "41"
+  },
+  {
+    "month": "September",
+    "day": "10",
+    "average_high": "74",
+    "mean": "64",
+    "average_low": "54",
+    "record_high": "94",
+    "record_low": "37"
+  },
+  {
+    "month": "September",
+    "day": "11",
+    "average_high": "74",
+    "mean": "64",
+    "average_low": "54",
+    "record_high": "94",
+    "record_low": "37"
+  },
+  {
+    "month": "September",
+    "day": "12",
+    "average_high": "73",
+    "mean": "63",
+    "average_low": "53",
+    "record_high": "95",
+    "record_low": "38"
+  },
+  {
+    "month": "September",
+    "day": "13",
+    "average_high": "73",
+    "mean": "63",
+    "average_low": "53",
+    "record_high": "94",
+    "record_low": "36"
+  },
+  {
+    "month": "September",
+    "day": "14",
+    "average_high": "72",
+    "mean": "63",
+    "average_low": "53",
+    "record_high": "92",
+    "record_low": "34"
+  },
+  {
+    "month": "September",
+    "day": "15",
+    "average_high": "72",
+    "mean": "62",
+    "average_low": "52",
+    "record_high": "96",
+    "record_low": "37"
+  },
+  {
+    "month": "September",
+    "day": "16",
+    "average_high": "72",
+    "mean": "62",
+    "average_low": "52",
+    "record_high": "97",
+    "record_low": "34"
+  },
+  {
+    "month": "September",
+    "day": "17",
+    "average_high": "71",
+    "mean": "61",
+    "average_low": "52",
+    "record_high": "91",
+    "record_low": "32"
+  },
+  {
+    "month": "September",
+    "day": "18",
+    "average_high": "71",
+    "mean": "61",
+    "average_low": "51",
+    "record_high": "92",
+    "record_low": "37"
+  },
+  {
+    "month": "September",
+    "day": "19",
+    "average_high": "70",
+    "mean": "61",
+    "average_low": "51",
+    "record_high": "90",
+    "record_low": "36"
+  },
+  {
+    "month": "September",
+    "day": "20",
+    "average_high": "70",
+    "mean": "60",
+    "average_low": "51",
+    "record_high": "91",
+    "record_low": "34"
+  },
+  {
+    "month": "September",
+    "day": "21",
+    "average_high": "70",
+    "mean": "60",
+    "average_low": "50",
+    "record_high": "91",
+    "record_low": "35"
+  },
+  {
+    "month": "September",
+    "day": "22",
+    "average_high": "69",
+    "mean": "60",
+    "average_low": "50",
+    "record_high": "93",
+    "record_low": "36"
+  },
+  {
+    "month": "September",
+    "day": "23",
+    "average_high": "69",
+    "mean": "59",
+    "average_low": "49",
+    "record_high": "90",
+    "record_low": "33"
+  },
+  {
+    "month": "September",
+    "day": "24",
+    "average_high": "68",
+    "mean": "59",
+    "average_low": "49",
+    "record_high": "90",
+    "record_low": "30"
+  },
+  {
+    "month": "September",
+    "day": "25",
+    "average_high": "68",
+    "mean": "58",
+    "average_low": "49",
+    "record_high": "92",
+    "record_low": "35"
+  },
+  {
+    "month": "September",
+    "day": "26",
+    "average_high": "68",
+    "mean": "58",
+    "average_low": "48",
+    "record_high": "89",
+    "record_low": "34"
+  },
+  {
+    "month": "September",
+    "day": "27",
+    "average_high": "67",
+    "mean": "57",
+    "average_low": "48",
+    "record_high": "88",
+    "record_low": "31"
+  },
+  {
+    "month": "September",
+    "day": "28",
+    "average_high": "67",
+    "mean": "57",
+    "average_low": "47",
+    "record_high": "90",
+    "record_low": "28"
+  },
+  {
+    "month": "September",
+    "day": "29",
+    "average_high": "66",
+    "mean": "57",
+    "average_low": "47",
+    "record_high": "90",
+    "record_low": "31"
+  },
+  {
+    "month": "September",
+    "day": "30",
+    "average_high": "66",
+    "mean": "56",
+    "average_low": "47",
+    "record_high": "89",
+    "record_low": "30"
+  },
+  {
+    "month": "October",
+    "day": "1",
+    "average_high": "65",
+    "mean": "56",
+    "average_low": "46",
+    "record_high": "86",
+    "record_low": "31"
+  },
+  {
+    "month": "October",
+    "day": "2",
+    "average_high": "65",
+    "mean": "55",
+    "average_low": "46",
+    "record_high": "87",
+    "record_low": "32"
+  },
+  {
+    "month": "October",
+    "day": "3",
+    "average_high": "65",
+    "mean": "55",
+    "average_low": "46",
+    "record_high": "90",
+    "record_low": "29"
+  },
+  {
+    "month": "October",
+    "day": "4",
+    "average_high": "64",
+    "mean": "55",
+    "average_low": "45",
+    "record_high": "89",
+    "record_low": "29"
+  },
+  {
+    "month": "October",
+    "day": "5",
+    "average_high": "64",
+    "mean": "54",
+    "average_low": "45",
+    "record_high": "91",
+    "record_low": "26"
+  },
+  {
+    "month": "October",
+    "day": "6",
+    "average_high": "63",
+    "mean": "54",
+    "average_low": "45",
+    "record_high": "87",
+    "record_low": "27"
+  },
+  {
+    "month": "October",
+    "day": "7",
+    "average_high": "63",
+    "mean": "54",
+    "average_low": "44",
+    "record_high": "88",
+    "record_low": "26"
+  },
+  {
+    "month": "October",
+    "day": "8",
+    "average_high": "63",
+    "mean": "53",
+    "average_low": "44",
+    "record_high": "84",
+    "record_low": "31"
+  },
+  {
+    "month": "October",
+    "day": "9",
+    "average_high": "62",
+    "mean": "53",
+    "average_low": "44",
+    "record_high": "88",
+    "record_low": "30"
+  },
+  {
+    "month": "October",
+    "day": "10",
+    "average_high": "62",
+    "mean": "53",
+    "average_low": "43",
+    "record_high": "89",
+    "record_low": "27"
+  },
+  {
+    "month": "October",
+    "day": "11",
+    "average_high": "61",
+    "mean": "52",
+    "average_low": "43",
+    "record_high": "89",
+    "record_low": "27"
+  },
+  {
+    "month": "October",
+    "day": "12",
+    "average_high": "61",
+    "mean": "52",
+    "average_low": "43",
+    "record_high": "84",
+    "record_low": "27"
+  },
+  {
+    "month": "October",
+    "day": "13",
+    "average_high": "61",
+    "mean": "51",
+    "average_low": "42",
+    "record_high": "83",
+    "record_low": "26"
+  },
+  {
+    "month": "October",
+    "day": "14",
+    "average_high": "60",
+    "mean": "51",
+    "average_low": "42",
+    "record_high": "86",
+    "record_low": "24"
+  },
+  {
+    "month": "October",
+    "day": "15",
+    "average_high": "60",
+    "mean": "51",
+    "average_low": "42",
+    "record_high": "86",
+    "record_low": "26"
+  },
+  {
+    "month": "October",
+    "day": "16",
+    "average_high": "60",
+    "mean": "50",
+    "average_low": "41",
+    "record_high": "85",
+    "record_low": "29"
+  },
+  {
+    "month": "October",
+    "day": "17",
+    "average_high": "59",
+    "mean": "50",
+    "average_low": "41",
+    "record_high": "85",
+    "record_low": "25"
+  },
+  {
+    "month": "October",
+    "day": "18",
+    "average_high": "59",
+    "mean": "50",
+    "average_low": "41",
+    "record_high": "83",
+    "record_low": "23"
+  },
+  {
+    "month": "October",
+    "day": "19",
+    "average_high": "58",
+    "mean": "50",
+    "average_low": "41",
+    "record_high": "81",
+    "record_low": "22"
+  },
+  {
+    "month": "October",
+    "day": "20",
+    "average_high": "58",
+    "mean": "49",
+    "average_low": "40",
+    "record_high": "79",
+    "record_low": "20"
+  },
+  {
+    "month": "October",
+    "day": "21",
+    "average_high": "58",
+    "mean": "49",
+    "average_low": "40",
+    "record_high": "80",
+    "record_low": "21"
+  },
+  {
+    "month": "October",
+    "day": "22",
+    "average_high": "57",
+    "mean": "49",
+    "average_low": "40",
+    "record_high": "82",
+    "record_low": "23"
+  },
+  {
+    "month": "October",
+    "day": "23",
+    "average_high": "57",
+    "mean": "48",
+    "average_low": "39",
+    "record_high": "79",
+    "record_low": "22"
+  },
+  {
+    "month": "October",
+    "day": "24",
+    "average_high": "57",
+    "mean": "48",
+    "average_low": "39",
+    "record_high": "81",
+    "record_low": "23"
+  },
+  {
+    "month": "October",
+    "day": "25",
+    "average_high": "56",
+    "mean": "48",
+    "average_low": "39",
+    "record_high": "83",
+    "record_low": "19"
+  },
+  {
+    "month": "October",
+    "day": "26",
+    "average_high": "56",
+    "mean": "47",
+    "average_low": "39",
+    "record_high": "79",
+    "record_low": "24"
+  },
+  {
+    "month": "October",
+    "day": "27",
+    "average_high": "56",
+    "mean": "47",
+    "average_low": "38",
+    "record_high": "83",
+    "record_low": "26"
+  },
+  {
+    "month": "October",
+    "day": "28",
+    "average_high": "55",
+    "mean": "47",
+    "average_low": "38",
+    "record_high": "76",
+    "record_low": "24"
+  },
+  {
+    "month": "October",
+    "day": "29",
+    "average_high": "55",
+    "mean": "46",
+    "average_low": "38",
+    "record_high": "76",
+    "record_low": "20"
+  },
+  {
+    "month": "October",
+    "day": "30",
+    "average_high": "55",
+    "mean": "46",
+    "average_low": "38",
+    "record_high": "78",
+    "record_low": "23"
+  },
+  {
+    "month": "October",
+    "day": "31",
+    "average_high": "54",
+    "mean": "46",
+    "average_low": "37",
+    "record_high": "80",
+    "record_low": "21"
+  },
+  {
+    "month": "November",
+    "day": "1",
+    "average_high": "54",
+    "mean": "46",
+    "average_low": "37",
+    "record_high": "81",
+    "record_low": "22"
+  },
+  {
+    "month": "November",
+    "day": "2",
+    "average_high": "54",
+    "mean": "45",
+    "average_low": "37",
+    "record_high": "80",
+    "record_low": "21"
+  },
+  {
+    "month": "November",
+    "day": "3",
+    "average_high": "53",
+    "mean": "45",
+    "average_low": "37",
+    "record_high": "75",
+    "record_low": "22"
+  },
+  {
+    "month": "November",
+    "day": "4",
+    "average_high": "53",
+    "mean": "45",
+    "average_low": "36",
+    "record_high": "74",
+    "record_low": "20"
+  },
+  {
+    "month": "November",
+    "day": "5",
+    "average_high": "52",
+    "mean": "44",
+    "average_low": "36",
+    "record_high": "74",
+    "record_low": "15"
+  },
+  {
+    "month": "November",
+    "day": "6",
+    "average_high": "52",
+    "mean": "44",
+    "average_low": "36",
+    "record_high": "72",
+    "record_low": "13"
+  },
+  {
+    "month": "November",
+    "day": "7",
+    "average_high": "52",
+    "mean": "44",
+    "average_low": "36",
+    "record_high": "77",
+    "record_low": "23"
+  },
+  {
+    "month": "November",
+    "day": "8",
+    "average_high": "51",
+    "mean": "43",
+    "average_low": "35",
+    "record_high": "74",
+    "record_low": "19"
+  },
+  {
+    "month": "November",
+    "day": "9",
+    "average_high": "51",
+    "mean": "43",
+    "average_low": "35",
+    "record_high": "74",
+    "record_low": "17"
+  },
+  {
+    "month": "November",
+    "day": "10",
+    "average_high": "50",
+    "mean": "43",
+    "average_low": "35",
+    "record_high": "72",
+    "record_low": "15"
+  },
+  {
+    "month": "November",
+    "day": "11",
+    "average_high": "50",
+    "mean": "42",
+    "average_low": "34",
+    "record_high": "73",
+    "record_low": "20"
+  },
+  {
+    "month": "November",
+    "day": "12",
+    "average_high": "50",
+    "mean": "42",
+    "average_low": "34",
+    "record_high": "72",
+    "record_low": "21"
+  },
+  {
+    "month": "November",
+    "day": "13",
+    "average_high": "49",
+    "mean": "42",
+    "average_low": "34",
+    "record_high": "71",
+    "record_low": "18"
+  },
+  {
+    "month": "November",
+    "day": "14",
+    "average_high": "49",
+    "mean": "41",
+    "average_low": "34",
+    "record_high": "72",
+    "record_low": "10"
+  },
+  {
+    "month": "November",
+    "day": "15",
+    "average_high": "48",
+    "mean": "41",
+    "average_low": "33",
+    "record_high": "71",
+    "record_low": "10"
+  },
+  {
+    "month": "November",
+    "day": "16",
+    "average_high": "48",
+    "mean": "41",
+    "average_low": "33",
+    "record_high": "70",
+    "record_low": "8"
+  },
+  {
+    "month": "November",
+    "day": "17",
+    "average_high": "48",
+    "mean": "40",
+    "average_low": "33",
+    "record_high": "72",
+    "record_low": "15"
+  },
+  {
+    "month": "November",
+    "day": "18",
+    "average_high": "47",
+    "mean": "40",
+    "average_low": "32",
+    "record_high": "71",
+    "record_low": "14"
+  },
+  {
+    "month": "November",
+    "day": "19",
+    "average_high": "47",
+    "mean": "39",
+    "average_low": "32",
+    "record_high": "73",
+    "record_low": "11"
+  },
+  {
+    "month": "November",
+    "day": "20",
+    "average_high": "46",
+    "mean": "39",
+    "average_low": "32",
+    "record_high": "72",
+    "record_low": "14"
+  },
+  {
+    "month": "November",
+    "day": "21",
+    "average_high": "46",
+    "mean": "39",
+    "average_low": "31",
+    "record_high": "72",
+    "record_low": "9"
+  },
+  {
+    "month": "November",
+    "day": "22",
+    "average_high": "45",
+    "mean": "38",
+    "average_low": "31",
+    "record_high": "71",
+    "record_low": "7"
+  },
+  {
+    "month": "November",
+    "day": "23",
+    "average_high": "45",
+    "mean": "38",
+    "average_low": "31",
+    "record_high": "74",
+    "record_low": "5"
+  },
+  {
+    "month": "November",
+    "day": "24",
+    "average_high": "44",
+    "mean": "38",
+    "average_low": "31",
+    "record_high": "71",
+    "record_low": "6"
+  },
+  {
+    "month": "November",
+    "day": "25",
+    "average_high": "44",
+    "mean": "37",
+    "average_low": "30",
+    "record_high": "67",
+    "record_low": "11"
+  },
+  {
+    "month": "November",
+    "day": "26",
+    "average_high": "44",
+    "mean": "37",
+    "average_low": "30",
+    "record_high": "69",
+    "record_low": "10"
+  },
+  {
+    "month": "November",
+    "day": "27",
+    "average_high": "43",
+    "mean": "36",
+    "average_low": "30",
+    "record_high": "71",
+    "record_low": "9"
+  },
+  {
+    "month": "November",
+    "day": "28",
+    "average_high": "43",
+    "mean": "36",
+    "average_low": "29",
+    "record_high": "74",
+    "record_low": "11"
+  },
+  {
+    "month": "November",
+    "day": "29",
+    "average_high": "42",
+    "mean": "36",
+    "average_low": "29",
+    "record_high": "69",
+    "record_low": "4"
+  },
+  {
+    "month": "November",
+    "day": "30",
+    "average_high": "42",
+    "mean": "35",
+    "average_low": "29",
+    "record_high": "70",
+    "record_low": "1"
+  },
+  {
+    "month": "December",
+    "day": "1",
+    "average_high": "42",
+    "mean": "35",
+    "average_low": "28",
+    "record_high": "64",
+    "record_low": "3"
+  },
+  {
+    "month": "December",
+    "day": "2",
+    "average_high": "41",
+    "mean": "35",
+    "average_low": "28",
+    "record_high": "65",
+    "record_low": "2"
+  },
+  {
+    "month": "December",
+    "day": "3",
+    "average_high": "41",
+    "mean": "34",
+    "average_low": "28",
+    "record_high": "72",
+    "record_low": "-3"
+  },
+  {
+    "month": "December",
+    "day": "4",
+    "average_high": "40",
+    "mean": "34",
+    "average_low": "27",
+    "record_high": "70",
+    "record_low": "-3"
+  },
+  {
+    "month": "December",
+    "day": "5",
+    "average_high": "40",
+    "mean": "33",
+    "average_low": "27",
+    "record_high": "68",
+    "record_low": "-4"
+  },
+  {
+    "month": "December",
+    "day": "6",
+    "average_high": "40",
+    "mean": "33",
+    "average_low": "27",
+    "record_high": "68",
+    "record_low": "1"
+  },
+  {
+    "month": "December",
+    "day": "7",
+    "average_high": "39",
+    "mean": "33",
+    "average_low": "26",
+    "record_high": "69",
+    "record_low": "4"
+  },
+  {
+    "month": "December",
+    "day": "8",
+    "average_high": "39",
+    "mean": "32",
+    "average_low": "26",
+    "record_high": "68",
+    "record_low": "2"
+  },
+  {
+    "month": "December",
+    "day": "9",
+    "average_high": "38",
+    "mean": "32",
+    "average_low": "26",
+    "record_high": "63",
+    "record_low": "2"
+  },
+  {
+    "month": "December",
+    "day": "10",
+    "average_high": "38",
+    "mean": "32",
+    "average_low": "25",
+    "record_high": "67",
+    "record_low": "-1"
+  },
+  {
+    "month": "December",
+    "day": "11",
+    "average_high": "38",
+    "mean": "31",
+    "average_low": "25",
+    "record_high": "61",
+    "record_low": "-6"
+  },
+  {
+    "month": "December",
+    "day": "12",
+    "average_high": "37",
+    "mean": "31",
+    "average_low": "25",
+    "record_high": "62",
+    "record_low": "-8"
+  },
+  {
+    "month": "December",
+    "day": "13",
+    "average_high": "37",
+    "mean": "31",
+    "average_low": "24",
+    "record_high": "62",
+    "record_low": "1"
+  },
+  {
+    "month": "December",
+    "day": "14",
+    "average_high": "37",
+    "mean": "30",
+    "average_low": "24",
+    "record_high": "62",
+    "record_low": "-4"
+  },
+  {
+    "month": "December",
+    "day": "15",
+    "average_high": "36",
+    "mean": "30",
+    "average_low": "24",
+    "record_high": "60",
+    "record_low": "-4"
+  },
+  {
+    "month": "December",
+    "day": "16",
+    "average_high": "36",
+    "mean": "30",
+    "average_low": "23",
+    "record_high": "62",
+    "record_low": "-1"
+  },
+  {
+    "month": "December",
+    "day": "17",
+    "average_high": "36",
+    "mean": "29",
+    "average_low": "23",
+    "record_high": "60",
+    "record_low": "-3"
+  },
+  {
+    "month": "December",
+    "day": "18",
+    "average_high": "36",
+    "mean": "29",
+    "average_low": "23",
+    "record_high": "57",
+    "record_low": "-7"
+  },
+  {
+    "month": "December",
+    "day": "19",
+    "average_high": "35",
+    "mean": "29",
+    "average_low": "22",
+    "record_high": "60",
+    "record_low": "-6"
+  },
+  {
+    "month": "December",
+    "day": "20",
+    "average_high": "35",
+    "mean": "29",
+    "average_low": "22",
+    "record_high": "63",
+    "record_low": "-16"
+  },
+  {
+    "month": "December",
+    "day": "21",
+    "average_high": "35",
+    "mean": "28",
+    "average_low": "22",
+    "record_high": "62",
+    "record_low": "-4"
+  },
+  {
+    "month": "December",
+    "day": "22",
+    "average_high": "35",
+    "mean": "28",
+    "average_low": "22",
+    "record_high": "69",
+    "record_low": "-9"
+  },
+  {
+    "month": "December",
+    "day": "23",
+    "average_high": "34",
+    "mean": "28",
+    "average_low": "21",
+    "record_high": "60",
+    "record_low": "-4"
+  },
+  {
+    "month": "December",
+    "day": "24",
+    "average_high": "34",
+    "mean": "28",
+    "average_low": "21",
+    "record_high": "58",
+    "record_low": "-7"
+  },
+  {
+    "month": "December",
+    "day": "25",
+    "average_high": "34",
+    "mean": "27",
+    "average_low": "21",
+    "record_high": "66",
+    "record_low": "-12"
+  },
+  {
+    "month": "December",
+    "day": "26",
+    "average_high": "34",
+    "mean": "27",
+    "average_low": "21",
+    "record_high": "66",
+    "record_low": "-1"
+  },
+  {
+    "month": "December",
+    "day": "27",
+    "average_high": "34",
+    "mean": "27",
+    "average_low": "20",
+    "record_high": "62",
+    "record_low": "-5"
+  },
+  {
+    "month": "December",
+    "day": "28",
+    "average_high": "33",
+    "mean": "27",
+    "average_low": "20",
+    "record_high": "68",
+    "record_low": "-1"
+  },
+  {
+    "month": "December",
+    "day": "29",
+    "average_high": "33",
+    "mean": "27",
+    "average_low": "20",
+    "record_high": "63",
+    "record_low": "-7"
+  },
+  {
+    "month": "December",
+    "day": "30",
+    "average_high": "33",
+    "mean": "26",
+    "average_low": "20",
+    "record_high": "64",
+    "record_low": "-8"
+  },
+  {
+    "month": "December",
+    "day": "31",
+    "average_high": "33",
+    "mean": "26",
+    "average_low": "20",
+    "record_high": "70",
+    "record_low": "-5"
+  }
+]
